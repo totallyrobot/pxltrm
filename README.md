@@ -2,18 +2,6 @@
 <h3 align="center"><img src="https://i.imgur.com/wSBAGO8.png" alt="logo" height="150px"></h3>
 <p align="center">A [WIP] pixel art editor inside the terminal.</p>
 
-<p align="center">
-<a href="https://discord.gg/enF5Gjd"><img
-src="https://img.shields.io/discord/440354555197128704.svg"></a> <a
-href="https://travis-ci.com/dylanaraps/pxltrm"><img
-src="https://travis-ci.com/dylanaraps/pxltrm.svg?branch=master"></a> <a
-href="./LICENSE.md"><img
-src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
-<a href="https://www.patreon.com/dyla"><img
-src="https://img.shields.io/badge/donate-patreon-yellow.svg"></a> <a
-href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V7QNJNKS3WYVS"><img
-src="https://img.shields.io/badge/donate-paypal-green.svg"></a> </p>
-
 <img src="https://i.imgur.com/njPMM2m.png" alt="pxltrm" align="right"
 width="51%">
 
